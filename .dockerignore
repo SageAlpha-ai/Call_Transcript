@@ -24,3 +24,6 @@ __blobstorage__/
 __queuestorage__/
 .python_packages/
 keys/
+dependencies/
+*.aac
+*.wav
