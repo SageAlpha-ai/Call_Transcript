@@ -137,3 +137,11 @@ __azurite_db*__.json
 
 .vscode/
 keys/
+
+# Heavy / local assets — keep repo source-only for CI/CD (e.g. Render)
+dependencies/
+*.pkl
+*.pkl.*
+*.model
+*.aac
+*.wav
